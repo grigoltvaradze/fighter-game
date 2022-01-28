@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\game_app\game_app\bin\Debug\net6.0\game_app.exe
+C:\Users\ASUS\source\repos\game_app\game_app\bin\Debug\net6.0\game_app.deps.json
+C:\Users\ASUS\source\repos\game_app\game_app\bin\Debug\net6.0\game_app.runtimeconfig.json
+C:\Users\ASUS\source\repos\game_app\game_app\bin\Debug\net6.0\game_app.dll
+C:\Users\ASUS\source\repos\game_app\game_app\bin\Debug\net6.0\ref\game_app.dll
+C:\Users\ASUS\source\repos\game_app\game_app\bin\Debug\net6.0\game_app.pdb
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.dll
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\ref\game_app.dll
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.pdb
+C:\Users\ASUS\source\repos\game_app\game_app\obj\Debug\net6.0\game_app.genruntimeconfig.cache
